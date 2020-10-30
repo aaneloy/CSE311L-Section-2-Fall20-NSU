@@ -67,61 +67,61 @@ This course introduces students with database management systems for the first t
     <th>Week 1</th>
     <th><a href="">Lab 1</a></th> 
     <th>Introduction to Github and SQL</th>
-    <th>11.07.2020</th>
+    <th>07.11.2020</th>
   </tr>
     <tr>
   <th>Week 2</th>
     <th><a href="">Lab 2</a></th> 
     <th>SQL Syntax and XAMPP introduction</th>
-    <th>18.07.2020</th>
+    <th>14.11.2020</th>
   </tr>
   <tr>
   <th>Week 3</th>
     <th><a href="">Lab 3</a></th> 
     <th>SQL Commands, basic operations</th>
-    <th>25.07.2020</th>
+    <th>21.11.2020</th>
   </tr>
   <tr>
     <th>Week 4</th>
     <th><a href="">Lab 4</a></th> 
     <th>Table Joining</th>
-    <th>22.08.2020</th>
+    <th>28.11.2020</th>
   </tr>
   <tr>
     <th>Week 5</th>
     <th><a href="">Lab 5</a></th> 
     <th>Table Grouping and Conditions</th>
-    <th>22.08.2020</th>
+    <th>5.12.2020</th>
   </tr>
   <tr>
     <th>Week 6</th>
     <th><a href="">Lab 6</a></th> 
     <th><b>Mid-Term</b></th>
-    <th>29.08.2020</th>
+    <th>12.12.2020</th>
   </tr>
   <tr>
     <th>Week 7</th>
     <th><a href="">Lab 7</a></th> 
     <th>Subquery, <b>Submission deadline of Project Phase -1 </b></th>
-    <th>05.09.2020</th>
+    <th>19.12.2020</th>
   </tr>
   <tr>
     <th>Week 8</th>
     <th><a href="">Lab 8</a></th> 
     <th>SQL table manipulations</th>
-    <th>12.09.2020</th>
+    <th>26.12.2020</th>
   </tr>
    <tr>
   <th>Week 9</th>
     <th><a href="">Lab 9</a></th> 
     <th>No-SQL, <b>Submission deadline of Project Phase -2 </b></th>
-    <th>19.09.2020</th>
+    <th>02.01.2021</th>
   </tr>
   <tr>
     <th>Week 10</th>
     <th><a href="">Lab 10</a></th> 
     <th>Lab-Final</th>
-    <th>26.09.2020</th>
+    <th>09.01.2021</th>
   </tr>
 
 </table>
