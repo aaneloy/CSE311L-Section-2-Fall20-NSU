@@ -12,7 +12,7 @@ Instructor: <strong>Asif Ahmed Neloy</strong> (email: <strong>asif.neloy@northso
 
 ## _Office Hour:_
 * Monday: 8.00 pm to 9.00 pm.
-* Link: 
+* Google Meet link - https://meet.google.com/rur-qvjr-zsv 
 * **P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
 </p>
 
