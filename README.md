@@ -23,7 +23,7 @@ This course introduces students with database management systems for the first t
 
 ## _Lab Hours:_
 * Saturday: 8.00 am to 11.10 pm.
-* **Lab will start from 8.10 am and attendance will be taken on 8.20 am**
+* **Lab will start from 8.30 am and attendance will be taken on 8.45 am**
 
 ## _Mark Distribution:_
 <p align="central">
@@ -138,7 +138,7 @@ This course introduces students with database management systems for the first t
 ## _Submission Guideline_:
 <p align="central">
 
-1. Signup **Github** by using your **NSU** email address and verify the email.
+1. Signup **Github** by using your **NSU** email address and verify the email. Your Github Name should be - **NSU_ID - Last_Name** (e.g. - 1510839042-Neloy)
 2. Signup for **Github Education Pack**, make sure you have ![Pro](https://webapps.stackexchange.com/questions/123808/github-whats-this-pro-tag-on-my-profile) badge in your profile.  
 3. Install the required software. (For **Github Desktop**, see this - https://www.youtube.com/watch?v=dL6t3jAA05w)
 4. Open Git command prompt (*Git Bash Here*) and Clone this Repo (```git clone https://github.com/aaneloy/CSE311L-Section-2-Fall20-NSU```) and make it **private**.
