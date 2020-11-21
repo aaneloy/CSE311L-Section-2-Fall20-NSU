@@ -1,0 +1,16 @@
+1. 
+2.SELECT Last_Name, Department_Id, Salary from employees 
+3. SELECT Last_Name AS 'Name', Department_Id as 'Stuff ID', Salary from employees
+4. SELECT Last_Name AS 'Name', Department_Name AS "Department" from employees, departments
+5. SELECT e.Employee_Id, e.Last_Name, e.Department_Id, d.Department_id, d.Location_id 
+from employees e, departments d
+WHERE e.Department_Id = d.Department_id
+6. SELECT e.Employee_Id AS "Stuff ID", e.Last_Name as "Name", e.Department_Id as "Dept ID", d.Department_id AS "Employee ID", d.Location_id 
+ as "Location" from employees e, departments d
+WHERE e.Department_Id = d.Department_id
+7. SELECT AVG(salary) AS "AVG SALARY" from employees
+8. SELECT AVG(salary), MAX(Salary), MIN(Salary), SUM(Salary) from employees
+9. SELECT DISTINCT(Department_Id) from employees ORDER BY Department_Id
+10. SELECT DISTINCT(Department_Id) from employees ORDER BY Department_Id DESC
+11. SELECT COUNT(DISTINCT(Department_Id)) AS "Unique Dept ID" from employees
+12. SELECT Department_Id, AVG(Salary) from employees GROUP BY Department_Id
