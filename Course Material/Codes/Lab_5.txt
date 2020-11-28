@@ -1,0 +1,33 @@
+1. Full join - 
+
+SELECT employee_id, city, Department_Name
+from employees e
+join departments d
+on d.Department_id = e.Department_Id
+join locations I
+on d.Location_id=I.Location_id
+
+2. Right outer Join - 
+
+SELECT e.last_name, e.department_id, d.department_name
+from employees e
+RIGHT OUTER JOIN departments d
+on (e.Department_Id=d.Department_id)
+
+3. Additional Cnd.
+
+SELECT e.employee_id, e.last_name, e.department_id,
+d.department_id, d.location_id
+FROM employees e JOIN departments d
+ON (e.department_id = d.department_id)
+AND e.manager_id = 149;
+
+
+4. HAVING
+
+SELECT job_id, SUM(salary) PAYROLL 
+from employees
+where job_id NOT LIKE '%REP'
+group by job_id
+HAVING SUM(salary)>13000
+order by SUM(salary)
