@@ -1,0 +1,13 @@
+1.SELECT DISTINCT S.Sname FROM Student S, Class C, Enrolled E, Faculty F WHERE S.snum = E.snum AND E.cname = C.name AND C.fid = F.fid AND F.fname = 'Ivana Teach' AND S.level = 'SR'
+2. SELECT S.level, AVG(S.age)
+FROM Student S
+GROUP BY S.level
+3. SELECT S.level, AVG(S.age)
+FROM Student S
+WHERE S.level <> 'JR'
+GROUP BY S.level
+4. SELECT F.fname, COUNT(*) AS 'CourseCount'
+FROM faculty F, class C
+WHERE F.fid = C.fid
+GROUP BY F.fid, F.fname
+HAVING C.room = 'R128'
