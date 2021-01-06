@@ -1,0 +1,9 @@
+student = student
+class = class
+enrolled = course
+faculty = department
+
+
+suppliers = providers
+parts = goodies
+catalog = stock
